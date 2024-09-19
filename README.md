@@ -1,7 +1,7 @@
 
-## Indian Sign Language Detection (ISL Detection)
+## Indian Sign Language to Gujrati Translation
 
-This project is a Flask web application that uses a pre-trained machine learning model to detect Indian Sign Language (ISL) gestures in real-time using a webcam feed. The application uses OpenCV, MediaPipe, and TensorFlow for video processing and prediction.
+This project is a Flask web application that uses a pre-trained machine learning model to detect Indian Sign Language (ISL) gestures in real-time using a webcam feed and convert them to Gujrati text. The application uses OpenCV, MediaPipe, and TensorFlow for video processing and prediction.
 
 ### Features
 1. **Real-Time ISL Detection**: Detects ISL gestures from the webcam feed.
